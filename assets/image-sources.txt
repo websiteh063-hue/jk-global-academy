@@ -1,0 +1,31 @@
+JK Global Academy image replacement notes
+
+This project currently uses local SVG illustrations so the site works immediately with relative paths only.
+If you want real royalty-free photos before publishing, replace the files in /images/ with optimized WebP photos from sources like Unsplash or Pexels.
+
+Suggested search terms:
+- Indian school classroom students
+- Indian school children group study
+- Indian classroom teaching India
+- Indian school science lab students
+- Indian school assembly or campus activity
+
+Recommended sources:
+- https://www.pexels.com/search/indian%20school%20children/
+- https://www.pexels.com/search/school%20classroom%20india/
+- https://unsplash.com/s/photos/indian-kids-school
+- https://unsplash.com/s/photos/classroom-children-india
+
+Suggested filenames for replacement:
+- hero-children.webp
+- classroom-activity.webp
+- school-campus.webp
+- reading-circle.webp
+- playgroup.webp
+- nursery.webp
+- kindergarten.webp
+- activity-zone.webp
+- art-time.webp
+- outdoor-play.webp
+
+After replacing assets, update the matching image src values in index.html if you change extensions.

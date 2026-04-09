@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 540 640">
+  <rect width="540" height="640" rx="32" fill="#eef5ff"/>
+  <rect x="78" y="186" width="384" height="276" rx="24" fill="#ffffff"/>
+  <rect x="160" y="118" width="220" height="76" rx="18" fill="#1f6ed4"/>
+  <text x="270" y="164" font-size="30" text-anchor="middle" font-family="Poppins, Arial, sans-serif" font-weight="700" fill="#ffffff">JK Global</text>
+  <rect x="240" y="342" width="60" height="120" rx="14" fill="#ff9b3d"/>
+  <g fill="#dfeeff">
+    <rect x="116" y="236" width="70" height="64" rx="12"/>
+    <rect x="206" y="236" width="70" height="64" rx="12"/>
+    <rect x="296" y="236" width="70" height="64" rx="12"/>
+    <rect x="386" y="236" width="40" height="64" rx="12"/>
+  </g>
+  <circle cx="108" cy="500" r="44" fill="#50b98b"/>
+  <circle cx="420" cy="510" r="50" fill="#50b98b"/>
+  <rect x="0" y="532" width="540" height="108" fill="#d9f0de"/>
+</svg>
